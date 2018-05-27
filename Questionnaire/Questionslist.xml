@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Questions>  
+  <Question>The Solids percentage in the flotation feed is 30% and the dry tonnages fed are 600 t/h. How much water is fed?</Question>
+    <Alternative1>600 m3/h</Alternative1>
+    <Alternative2>900 m3/h</Alternative2>
+    <Alternative3>1400 t/h</Alternative3>
+    <Alternative4>600 t/h</Alternative4>
+    <Alternative5>1800 L/h</Alternative5>  
+  </Questions>

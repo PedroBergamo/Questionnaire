@@ -1,0 +1,203 @@
+﻿<?xml version="1.0"?>
+<ArrayOfQuestion xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Question>
+    <Quest>A porcentagem de sólidos na alimentação da flotação é 30% e o fluxo de matéria seca é 600 t/h. Qual a quantidade de água adicionada? </Quest>
+    <Alternative1>600 m3/h</Alternative1>
+    <Alternative2>900 m3/h</Alternative2>
+    <Alternative3>1400 m3/h</Alternative3>
+    <Alternative4>600 t/h</Alternative4>
+    <Alternative5>1800 l/h</Alternative5>
+  </Question>
+  <Question>
+    <Quest>A densidade relativa (gravidade específica) deste minério é 4.2 t/m3 e este contém em média 35% de cobre, 30% de ferro e 35% de enxofre. </Quest>
+    <Alternative1>Pirita</Alternative1>
+    <Alternative2>Calcopirita</Alternative2>
+    <Alternative3>Esfalerita</Alternative3>
+    <Alternative4>Bornita</Alternative4>
+    <Alternative5>Quartzo</Alternative5>
+  </Question>
+  <Question>
+    <Quest>O concentrado final contém 24.7% de Cu e 35% de Fe. Na alimentação do circuito há 1.2% de Cu e 0.08% de Cu nos resíduos. Qual a massa recuperada e recuperação do circuito? </Quest>
+    <Alternative1>Massa recuperada 1.2%, recuperação 24%</Alternative1>
+    <Alternative2>Massa recuperada 2.9%, recuperação 70%</Alternative2>
+    <Alternative3>Massa recuperada 4.5%, recuperação 94%</Alternative3>
+    <Alternative4>Massa recuperada 4.9%, recuperação 100%</Alternative4>
+    <Alternative5>Massa recuperada 8.6%, recuperação 120%</Alternative5>
+  </Question>
+  <Question>
+    <Quest>Qual opção é verdadeira em relação a reagentes e bolhas de ar na flotação? </Quest>
+    <Alternative1>Espumante possui a função de aumentar o tamanho das bolhas de ar</Alternative1>
+    <Alternative2>Alterações de pH tem um grande efeito no tamanho das bolhas </Alternative2>
+    <Alternative3>Coletor é usado para aumentar o tamanho das bolhas</Alternative3>
+    <Alternative4>Espumante é usado para diminuir o tamanho das bolhas</Alternative4>
+    <Alternative5>Xantatos diminuem o tamanho das bolhas</Alternative5>
+  </Question>
+  <Question>
+    <Quest>A concentração de metal da alimentação de flutuação está diminuindo. O que deve ser feito para manter o grau do metal desejado no concentrado? </Quest>
+    <Alternative1>Aumentar a profundidade de espuma</Alternative1>
+    <Alternative2>Aumentar a adição de ar no circuito de flotação</Alternative2>
+    <Alternative3>Aumentar a dose de coletor</Alternative3>
+    <Alternative4>Aumentar a quantidade de espumante</Alternative4>
+    <Alternative5>Nada, o sistema de automação irá tomar conta de tudo</Alternative5>
+  </Question>
+  <Question>
+    <Quest>Qual é a função do rotor na flotação?</Quest>
+    <Alternative1>O rotor aumenta a turbulência</Alternative1>
+    <Alternative2>O rotor aprimora a mistura</Alternative2>
+    <Alternative3>O rotor aprimora a espuma</Alternative3>
+    <Alternative4>O rotor aumenta o poder do coletor</Alternative4>
+    <Alternative5>O rotor é responsável pela produção de bolhas</Alternative5>
+  </Question>
+  <Question>
+    <Quest>Um kilograma equivale a: </Quest>
+    <Alternative1>10 microns</Alternative1>
+    <Alternative2>100 ppm</Alternative2>
+    <Alternative3>1000 g</Alternative3>
+    <Alternative4>0.1 t</Alternative4>
+    <Alternative5>0.01 m3</Alternative5>
+  </Question>
+  <Question>
+    <Quest>A taxa de alimentação da planta é 200 t/h e a dose de coletor é 100 g/t. Quanto de coletor será necessário em uma hora (coletor 100%)?</Quest>
+    <Alternative1>200 g</Alternative1>
+    <Alternative2>20 kg</Alternative2>
+    <Alternative3>2 t</Alternative3>
+    <Alternative4>200 t</Alternative4>
+    <Alternative5>20 g</Alternative5>
+  </Question>
+  <Question>
+    <Quest>PID é um controlador de processo usado para ajustar: </Quest>
+    <Alternative1>A dosagem de coletor</Alternative1>
+    <Alternative2>A taxa de fluxo do modificador de pH</Alternative2>
+    <Alternative3>O nível do Rougher</Alternative3>
+    <Alternative4>A taxa de alimentação de ar</Alternative4>
+    <Alternative5>Todas as opções acima</Alternative5>
+  </Question>
+  <Question>
+    <Quest>A Pirita é um: </Quest>
+    <Alternative1>Minério de Cobre</Alternative1>
+    <Alternative2>Minério de Níquel</Alternative2>
+    <Alternative3>Tipo de Quartzo</Alternative3>
+    <Alternative4>Minério de Ferro</Alternative4>
+    <Alternative5>Minério de Sulfato</Alternative5>
+  </Question>
+  <Question>
+    <Quest>Qual é o tamanho médio de partícula tipicamente encontrado na alimentação da flotação? </Quest>
+    <Alternative1>10 nanômetros </Alternative1>
+    <Alternative2>0.50 mm </Alternative2>
+    <Alternative3>0.25 mm</Alternative3>
+    <Alternative4>25 microns</Alternative4>
+    <Alternative5>50 microns</Alternative5>
+  </Question>
+  <Question>
+    <Quest>O que acontecerá se a temperatura da polpa na alimentação da flotação for acima de 60 ℃? </Quest>
+    <Alternative1>Tudo irá explodir</Alternative1>
+    <Alternative2>O espumante näo dissolvirá</Alternative2>
+    <Alternative3>A válvula de dardos parará de funcionar</Alternative3>
+    <Alternative4>A evaporação das células de flotação irá aumentar significantemente</Alternative4>
+    <Alternative5>O revestimento de borracha da célula de flotação terá menos desgaste</Alternative5>
+  </Question>
+  <Question>
+    <Quest>Se a taxa de alimentação de uma célula é 600 m3/h e o tempo de residência médio é 12 min, qual é o tamanho da célula? (A massa recuperada do conc. é pequena e o ar ocupa c. 20% volume) </Quest>
+    <Alternative1>25 m3</Alternative1>
+    <Alternative2>50 m3</Alternative2>
+    <Alternative3>70 m3</Alternative3>
+    <Alternative4>160 m3</Alternative4>
+    <Alternative5>250 m3</Alternative5>
+  </Question>
+  <Question>
+    <Quest>Em uma célula de flotação, a taxa de alimentação de sólidos é 200 t/h e a taxa de fluxo do concentrado é 30 t/h. Qual a massa recuperada? </Quest>
+    <Alternative1>30 t/h</Alternative1>
+    <Alternative2>30 m3/h</Alternative2>
+    <Alternative3>10 %</Alternative3>
+    <Alternative4>15 %</Alternative4>
+    <Alternative5>20 %</Alternative5>
+  </Question>
+  <Question>
+    <Quest>O teor de alimentação do cobre é 1.2%, a massa recuperada é 5% e o grau do concentrado é 10%. Qual é o grau dos resíduos na célula Rougher? </Quest>
+    <Alternative1>0.07%</Alternative1>
+    <Alternative2>0.1%</Alternative2>
+    <Alternative3>0.7%</Alternative3>
+    <Alternative4>0.9%</Alternative4>
+    <Alternative5>1.2%</Alternative5>
+  </Question>
+  <Question>
+    <Quest>Qual é o tempo de residência típico na linha rougher + scavenger na flotação de sulfetos? (incluindo condicionadores) </Quest>
+    <Alternative1>2 minutos</Alternative1>
+    <Alternative2>10 minutos</Alternative2>
+    <Alternative3>30 minutos</Alternative3>
+    <Alternative4>1 hora</Alternative4>
+    <Alternative5>2 horas</Alternative5>
+  </Question>
+  <Question>
+    <Quest>Qual das afirmações sobre as funções das células de flotação é correta?</Quest>
+    <Alternative1>Células scavengers tratam o concentrado rougher</Alternative1>
+    <Alternative2>O grau do concentrado rougher é praticamente o mesmo dos resíduos cleaner</Alternative2>
+    <Alternative3>O concentrado da cleaner possui um grau maior do que o do concentrado da rougher</Alternative3>
+    <Alternative4>Os resíduos das células cleaner geralmente são enviados às células scavengers</Alternative4>
+    <Alternative5>Os resíduos da rougher é enviado às cleaners</Alternative5>
+  </Question>
+  <Question>
+    <Quest>Qual a típica porcentagem de sólidos dos resíduos da rougher?</Quest>
+    <Alternative1>50%</Alternative1>
+    <Alternative2>40%</Alternative2>
+    <Alternative3>25%</Alternative3>
+    <Alternative4>10%</Alternative4>
+    <Alternative5>5%</Alternative5>
+  </Question>
+  <Question>
+    <Quest>O grau de cobre no concentrado diminui do valor alvo. Qual seria o procedimento correto para que este volte ao valor alvo?</Quest>
+    <Alternative1>Aumentar espumante</Alternative1>
+    <Alternative2>Aumentar o fluxo de água de lavagem</Alternative2>
+    <Alternative3>Diminuir o fluxo da alimentação</Alternative3>
+    <Alternative4>Aumentar o fluxo de ares</Alternative4>
+    <Alternative5>Aumentar a profundidade da espuma</Alternative5>
+  </Question>
+  <Question>
+    <Quest>Qual das seguintes afirmações é verdadeira sobre as Células Tanque da Outotec?</Quest>
+    <Alternative1>Células Tanque possuem a parte inferior em formato de “U” </Alternative1>
+    <Alternative2>Células Tanque são as chamadas células de flotação com ar forçado</Alternative2>
+    <Alternative3>O maior Célula Tanque disponível possui 100 m3</Alternative3>
+    <Alternative4>Células Tanques não podem ser usadas no circuito cleaner</Alternative4>
+    <Alternative5>Células Tanques podem processar materiais com elevada espessura (&gt; 1 mm)</Alternative5>
+  </Question>
+  <Question>
+    <Quest>Se o ponto de ajuste da primeira célula Rougher é alterado de -150 mm para -100 mm e em seguida a espuma na segunda célula Rougher para, o que deveria ser feito? </Quest>
+    <Alternative1>Mudar o ponto de ajuste de nível de volta para -150 mm</Alternative1>
+    <Alternative2>Checar a válvula dos resíduos</Alternative2>
+    <Alternative3>Nada. Tal acontecimento é comum</Alternative3>
+    <Alternative4>Checar o rotor do motor</Alternative4>
+    <Alternative5>Checar a metragem do nível</Alternative5>
+  </Question>
+  <Question>
+    <Quest>Qual das seguintes afirmações é correta sobre a espessura da espuma na célula de flotação?</Quest>
+    <Alternative1>A espessura da espuma é controlada ajustando-se a taxa de alimentação</Alternative1>
+    <Alternative2>A espessura da espuma é controlada ajustando-se a válvula de resíduos</Alternative2>
+    <Alternative3>A espessura da espuma é controlada pelo coletor</Alternative3>
+    <Alternative4>A espessura da espuma é controlada pelo espumante</Alternative4>
+    <Alternative5>A espessura da espuma é controlada pelo ar</Alternative5>
+  </Question>
+  <Question>
+    <Quest>Qual a função da mistura na flotação?</Quest>
+    <Alternative1>Entregar uma quantidade elevada de ar de forma eficiente no tanque</Alternative1>
+    <Alternative2>Aumentar a rapidez da separação</Alternative2>
+    <Alternative3>Gerar bolhas menores</Alternative3>
+    <Alternative4>Gerar bolhas maiores</Alternative4>
+    <Alternative5>Promover colisões partículas-bolhas</Alternative5>
+  </Question>
+  <Question>
+    <Quest>Qual das seguintes afirmações é correta sobre a água na espuma da flotação? </Quest>
+    <Alternative1>Adicionando mais coletor faz com que a espuma fique mais úmida</Alternative1>
+    <Alternative2>Aumentando o tamanho do constritor de espuma faz com que esta se torne mais úmida</Alternative2>
+    <Alternative3>Adicionando mais espumante faz com que a espuma se torne mais úmida</Alternative3>
+    <Alternative4>Aumentando o ar faz com que a espuma se torne mais úmida</Alternative4>
+    <Alternative5>Aumentando a profundidade de espuma faz com que a esta se torne mais úmida</Alternative5>
+  </Question>
+  <Question>
+    <Quest>Qual dos seguintes minerais normalmente flutua de forma natural (sem coletor)? </Quest>
+    <Alternative1>Granada</Alternative1>
+    <Alternative2>Carvão</Alternative2>
+    <Alternative3>Pirita</Alternative3>
+    <Alternative4>Calcopirita</Alternative4>
+    <Alternative5>Esfalerita</Alternative5>
+  </Question>
+</ArrayOfQuestion>
